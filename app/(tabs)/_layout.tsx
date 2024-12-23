@@ -69,7 +69,6 @@ export default function TabLayout() {
 
                     return (
                         <Animated.View style={{ transform: [{ scale }] }}>
-                            <IconSymbol size={30} name={iconName} color={iconColor} />
                         </Animated.View>
                     );
                 },
