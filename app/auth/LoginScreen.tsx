@@ -57,7 +57,7 @@ export default function LoginScreen() {
     <LinearGradient colors={["#1F1C2C", "#928DAB"]} style={styles.container}>
       <View style={styles.logoContainer}>
         <Image
-          source={require("../../assets/images/favicon1.jpg")}
+          source={require("../../assets/images/logo-icon-30.png")}
           style={styles.logo}
         />
       </View>
